@@ -1,2 +1,1 @@
-Frontend Engineer x Creative Technologist
-#running ...
+Creative Technologist :rocket:
