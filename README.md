@@ -1,1 +1,1 @@
-Creative Technologist :rocket:
+Frontend Engineer × Creative Technologist :rocket:
